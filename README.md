@@ -1,4 +1,4 @@
-# PowerBI-Dashboards
+# Super Store Sales Dashboard
 # Power BI Projects  
 
 Welcome to the **Power BI Projects** repository! This repository showcases a collection of Power BI dashboards and reports, designed to demonstrate how Power BI can transform raw data into meaningful insights through dynamic and interactive visualizations.  
